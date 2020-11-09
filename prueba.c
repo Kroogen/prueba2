@@ -3,3 +3,7 @@
 void main(){
 	printf("Mensaje");
 }
+
+int Suma(int a,int b){
+	return a+b;
+}
